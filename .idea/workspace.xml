@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tipe Data.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tipe Data Decimal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +38,16 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Tipe_DataKt">
-    <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LiteralKt" />
+  <component name="RunManager" selected="Kotlin.Tipe_Data_DecimalKt">
+    <configuration name="Tipe_DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tipe_DataKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tipe_DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tipe_DataKt" />
+    <configuration name="Tipe_Data_DecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tipe_Data_DecimalKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tipe_Data_DecimalKt" />
         <item itemvalue="Kotlin.Tipe_DataKt" />
         <item itemvalue="Kotlin.VarKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
-        <item itemvalue="Kotlin.LiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725288842204</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add Tipe Data.kt">
+      <created>1725289766748</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725289766748</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +160,7 @@
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add Variabel.kt" />
     <MESSAGE value="Add Var.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Var.kt" />
+    <MESSAGE value="Add Tipe Data.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Tipe Data.kt" />
   </component>
 </project>
