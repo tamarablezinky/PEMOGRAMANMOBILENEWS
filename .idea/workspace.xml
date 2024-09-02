@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Var.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Tipe Data.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.VarKt">
+  <component name="RunManager" selected="Kotlin.Tipe_DataKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
@@ -47,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAppKt" />
+    <configuration name="Tipe_DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tipe_DataKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Tipe_DataKt" />
         <item itemvalue="Kotlin.VarKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.LiteralKt" />
-        <item itemvalue="Kotlin.MainAppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725288498634</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Var.kt">
+      <created>1725288842204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725288842204</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +152,7 @@
     <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add Variabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel.kt" />
+    <MESSAGE value="Add Var.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Var.kt" />
   </component>
 </project>
