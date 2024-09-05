@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Program Sandi Morse.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725508913648</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add Penerapan String.kt">
+      <created>1725509236226</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725509236226</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add Program Caesar Chiper.kt">
+      <created>1725509376309</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725509376309</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,6 +287,8 @@
     <MESSAGE value="Add Menghapus spasi raw String.kt" />
     <MESSAGE value="Add String Templates.kt" />
     <MESSAGE value="Add Fungsi Anggota pada String.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Fungsi Anggota pada String.kt" />
+    <MESSAGE value="Add Penerapan String.kt" />
+    <MESSAGE value="Add Program Caesar Chiper.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Program Caesar Chiper.kt" />
   </component>
 </project>
