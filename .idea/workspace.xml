@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan String.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725508691955</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add Fungsi Anggota pada String.kt">
+      <created>1725508913648</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725508913648</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -265,6 +272,7 @@
     <MESSAGE value="Add raw String.kt" />
     <MESSAGE value="Add Menghapus spasi raw String.kt" />
     <MESSAGE value="Add String Templates.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add String Templates.kt" />
+    <MESSAGE value="Add Fungsi Anggota pada String.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Fungsi Anggota pada String.kt" />
   </component>
 </project>
