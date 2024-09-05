@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Konversi Eksplisit.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725505309107</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Representasi.kt">
+      <created>1725505989064</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725505989064</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,6 +192,7 @@
     <MESSAGE value="Add Tipe Data Decimal.kt" />
     <MESSAGE value="Add Constants Literasi.kt" />
     <MESSAGE value="Add Underscore dalam Literasi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Underscore dalam Literasi.kt" />
+    <MESSAGE value="Add Representasi.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Representasi.kt" />
   </component>
 </project>
