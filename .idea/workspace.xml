@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Perintah Masukkan di Kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Mengembalikan fungsi readLine.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,11 +268,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725509572197</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add Perintah Masukkan di Kotlin.kt">
+      <created>1725509871307</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725509871307</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="push stater project" />
     <MESSAGE value="Push stater project." />
     <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
@@ -297,6 +303,7 @@
     <MESSAGE value="Add Penerapan String.kt" />
     <MESSAGE value="Add Program Caesar Chiper.kt" />
     <MESSAGE value="Add Program Sandi Morse.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Program Sandi Morse.kt" />
+    <MESSAGE value="Add Perintah Masukkan di Kotlin.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Perintah Masukkan di Kotlin.kt" />
   </component>
 </project>
