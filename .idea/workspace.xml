@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Konversi Eksplisit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character (Char).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725505989064</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add Konversi Eksplisit.kt">
+      <created>1725506354998</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1725506354998</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +200,7 @@
     <MESSAGE value="Add Constants Literasi.kt" />
     <MESSAGE value="Add Underscore dalam Literasi.kt" />
     <MESSAGE value="Add Representasi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Representasi.kt" />
+    <MESSAGE value="Add Konversi Eksplisit.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Konversi Eksplisit.kt" />
   </component>
 </project>
