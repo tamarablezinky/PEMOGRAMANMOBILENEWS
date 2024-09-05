@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghapus spasi raw String.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/String Templates.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725508180115</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Add Menghapus spasi raw String.kt">
+      <created>1725508534493</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1725508534493</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add String Templates.kt">
+      <created>1725508691955</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1725508691955</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +263,8 @@
     <MESSAGE value="Add String (Array of Character).kt" />
     <MESSAGE value="Add String dengan tipedata Operator +.kt" />
     <MESSAGE value="Add raw String.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add raw String.kt" />
+    <MESSAGE value="Add Menghapus spasi raw String.kt" />
+    <MESSAGE value="Add String Templates.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add String Templates.kt" />
   </component>
 </project>
