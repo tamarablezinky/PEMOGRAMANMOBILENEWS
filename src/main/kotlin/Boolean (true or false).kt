@@ -5,6 +5,6 @@ fun main(args: Array<String>) {
         println("varBool bernilai " + varBool)
     var varInt : Int = 1
 
-    if(varInt)
+    //if(varInt)//
         println("varInt bernilai " + varInt)
 }
