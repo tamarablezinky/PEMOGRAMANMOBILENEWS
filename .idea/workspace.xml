@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Boolean (true or false).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Boolean (true or false).kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tipe Data.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tipe Data Bilangan Bulat.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tipe_DataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tipe_DataKt" />
+    <configuration name="Tipe_Data_Bilangan_BulatKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tipe_Data_Bilangan_BulatKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,7 +80,7 @@
         <item itemvalue="Kotlin.Boolean__true_or_false_Kt" />
         <item itemvalue="Kotlin.Constants_LiteralKt" />
         <item itemvalue="Kotlin.Tipe_Data_DecimalKt" />
-        <item itemvalue="Kotlin.Tipe_DataKt" />
+        <item itemvalue="Kotlin.Tipe_Data_Bilangan_BulatKt" />
         <item itemvalue="Kotlin.VarKt" />
       </list>
     </recent_temporary>
@@ -290,11 +290,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725510423635</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Add Val.kt">
+      <created>1725590446875</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1725590446875</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add Variabel.kt" />
     <MESSAGE value="Add Var.kt" />
@@ -319,6 +325,7 @@
     <MESSAGE value="Add Perintah Masukkan di Kotlin.kt" />
     <MESSAGE value="Add Mengembalikan fungsi readLine.kt" />
     <MESSAGE value="Add Program Kalkulator Sederhana.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Program Kalkulator Sederhana.kt" />
+    <MESSAGE value="Add Val.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Val.kt" />
   </component>
 </project>
