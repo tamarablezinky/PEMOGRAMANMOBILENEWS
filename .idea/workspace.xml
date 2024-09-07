@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b2007c2e-f409-4aba-a665-a0f96f6f1323" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Tipe Data.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Tipe Data Bilangan Bulat.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +38,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Boolean__true_or_false_Kt">
-    <configuration name="Boolean__true_or_false_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Boolean__true_or_false_Kt" />
-      <module name="PEMOGRAMANMOBILENEWS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Constants_LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_LiteralKt" />
+  <component name="RunManager" selected="Kotlin.Tipe_Data_Bilangan_BulatKt">
+    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainAppKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tipe_Data_DecimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tipe_Data_DecimalKt" />
+    <configuration name="ValKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValKt" />
       <module name="PEMOGRAMANMOBILENEWS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
+      <module name="PEMOGRAMANMOBILENEWS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Boolean__true_or_false_Kt" />
-        <item itemvalue="Kotlin.Constants_LiteralKt" />
-        <item itemvalue="Kotlin.Tipe_Data_DecimalKt" />
         <item itemvalue="Kotlin.Tipe_Data_Bilangan_BulatKt" />
+        <item itemvalue="Kotlin.ValKt" />
         <item itemvalue="Kotlin.VarKt" />
+        <item itemvalue="Kotlin.VariabelKt" />
+        <item itemvalue="Kotlin.MainAppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,11 +296,17 @@
       <option name="project" value="LOCAL" />
       <updated>1725590446875</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add Tipe Data Bilangan Bulat.kt">
+      <created>1725591360643</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725591360643</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add Variabel.kt" />
     <MESSAGE value="Add Var.kt" />
     <MESSAGE value="Add Tipe Data.kt" />
@@ -326,6 +331,7 @@
     <MESSAGE value="Add Mengembalikan fungsi readLine.kt" />
     <MESSAGE value="Add Program Kalkulator Sederhana.kt" />
     <MESSAGE value="Add Val.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Val.kt" />
+    <MESSAGE value="Add Tipe Data Bilangan Bulat.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Tipe Data Bilangan Bulat.kt" />
   </component>
 </project>

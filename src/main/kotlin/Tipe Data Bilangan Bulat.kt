@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     val maxLong: Long = 9223372036854775807 //64bit
 
     println("minByte:" + minByte)
-    println("maxByte:" + minByte)
+    println("maxByte:" + maxByte)
     println("minShort:" + minShort)
     println("maxShort:" + maxShort)
     println("minInt:" + minInt)
